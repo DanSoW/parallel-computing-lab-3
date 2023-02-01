@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Projects\Learning\parallel-computing\lab2\lab2.cpp(99,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+lab2.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  lab2.vcxproj -> C:\Projects\Learning\parallel-computing\lab2\x64\Debug\lab2.exe
